@@ -1,5 +1,8 @@
 # Apatheia
 
+<img width="1024" height="1024" alt="image" src="https://github.com/user-attachments/assets/f9651eb7-a3be-4cb8-8b33-9f73aa96cd48" />
+
+
 > **An individual security hygiene protocol aligned with SOC 2 security principles.**
 
 Apatheia is an open-source security hygiene framework that helps individuals build consistent cybersecurity habits through scheduled controls, documented procedures, and measurable compliance.
